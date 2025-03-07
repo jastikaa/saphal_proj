@@ -1,0 +1,15 @@
+release/dashboard.o
+release/dialog.o
+release/login.o
+release/love.o
+release/main.o
+release/mainwindow.o
+release/mother.o
+release/sister.o
+release/moc_dashboard.o
+release/moc_dialog.o
+release/moc_login.o
+release/moc_love.o
+release/moc_mainwindow.o
+release/moc_mother.o
+release/moc_sister.o
